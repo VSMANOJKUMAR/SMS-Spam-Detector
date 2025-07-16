@@ -1,5 +1,0 @@
-streamit
-nltk
-sklearn
-pandas
-numpy
